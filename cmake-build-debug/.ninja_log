@@ -1,0 +1,12 @@
+# ninja log v6
+10	1015	7612373474731524	build.ninja	b5a8a7540f354170
+5	325	7612373903354109	CMakeFiles/BitboardCheckers.dir/main.c.obj	f73c25e6b6fb8445
+13	375	7612379655369791	CMakeFiles/BitboardCheckers.dir/board.c.obj	9f96ec59489ae049
+378	1246	7612379659008326	BitboardCheckers.exe	520fa0d587fb52a7
+12	190	7612383845076943	CMakeFiles/BitboardCheckers.dir/main.c.obj	f73c25e6b6fb8445
+26	266	7612383845232712	CMakeFiles/BitboardCheckers.dir/board.c.obj	9f96ec59489ae049
+266	488	7612383847614783	BitboardCheckers.exe	520fa0d587fb52a7
+12	264	7612391389532113	CMakeFiles/BitboardCheckers.dir/main.c.obj	f73c25e6b6fb8445
+10	182	7612392465762594	CMakeFiles/BitboardCheckers.dir/main.c.obj	f73c25e6b6fb8445
+9	232	7612393068292807	CMakeFiles/BitboardCheckers.dir/board.c.obj	9f96ec59489ae049
+235	592	7612393070549247	BitboardCheckers.exe	520fa0d587fb52a7
